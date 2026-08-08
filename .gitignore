@@ -1,0 +1,6 @@
+scope.yaml
+__pycache__/
+*.pyc
+.venv/
+reports/*.html
+reports/*.json
